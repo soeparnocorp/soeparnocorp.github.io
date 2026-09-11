@@ -1,6 +1,6 @@
 site:
-  name: SOEPARNO ENTERPRISE
-  site: 'https://soeparnocorp.vercel.app'
+  name: SOEPARNO ENTERPRISE, Corp.
+  site: 'https://soeparnocorp.pages.app'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: SOEPARNO ENTERPRISE
+    default: SOEPARNO ENTERPRISE, Corp.
     template: '%s — AstroWind'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: SOEPARNO ENTERPRISE
+    site_name: SOEPARNO ENTERPRISE, Corp.
     images:
       - url: '~/assets/images/default.png'
         width: 1200
